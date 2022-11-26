@@ -1,6 +1,6 @@
 # Explicações sem inglesia
 
-## Arquiteturas
-## Padrões de projeto
-## Princípios
-## Referências
+- Arquiteturas
+- Padrões de projeto
+- Princípios
+- Referências
