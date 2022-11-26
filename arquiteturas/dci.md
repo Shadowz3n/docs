@@ -1,4 +1,4 @@
 # Dados, contexto e interação
-# Data, Context and Interaction (DCI)
+# Data, context and interaction (DCI)
 
 - [Referência](https://dci.github.io/)
